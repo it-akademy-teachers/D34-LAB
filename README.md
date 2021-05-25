@@ -27,14 +27,7 @@ Think Open Source. Code & hack with :heart: !
 
 La validation des solutions se fait directement sur le site [Root-Me](http://root-me.org/) sur lequel tu dois créer un compte personnel.
 
-Pour vérifier ta progression, nous allons directement utiliser l'API de [Root-Me](http://root-me.org/). Ainsi, nous avons seulement besoin de ton nom d'utilisateur. Merci de l'indiquer ici.
-
-Ton nom d'utilisateur [Root-Me](http://root-me.org/) : * * * * * * *
-
-Afin de faciliter notre suivi, nous te remercions de mettre une crois devant chaque exercice que tu auras terminé. Pour cela, ajoute simplement un X dans le code markdown d'une case : [ ] -> [X].
-
-
-**N'oublie pas de commiter et pusher ce dépôt.**
+Pour vérifier ta progression, nous allons directement utiliser l'API de [Root-Me](http://root-me.org/). Ainsi, nous avons seulement besoin de ton nom d'utilisateur. Merci de l'envoyer à pedagogie@it-akademy.fr.
 
 # Liste des exercices et challenges
 
